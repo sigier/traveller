@@ -4,7 +4,7 @@
   "description": "Landing page",
   "main": "index.js",
   "scripts": {
-    "compile:sass": "node-sass sass/main.scss css/styles.css --watch"
+    "compile:sass": "node-sass sass/main.scss css/styles.css"
   },
   "repository": {
     "type": "git",
@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/sigier/traveller#readme",
   "devDependencies": {
-    "node-sass": "^7.0.0"
+    "node-sass": "^4.12.0"
   }
 }
