@@ -1,0 +1,22 @@
+{
+  "name": "traveller",
+  "version": "1.0.0",
+  "description": "Landing page",
+  "main": "index.js",
+  "scripts": {
+    "compile:sass": "node-sass sass/main.scss css/styles.css --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sigier/traveller.git"
+  },
+  "author": "Sigier",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sigier/traveller/issues"
+  },
+  "homepage": "https://github.com/sigier/traveller#readme",
+  "devDependencies": {
+    "node-sass": "^7.0.0"
+  }
+}
