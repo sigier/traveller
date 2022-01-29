@@ -1,1 +1,2 @@
-# traveller styled app
+# traveller app
+Active travelling and tours booking app
